@@ -1,0 +1,8 @@
+## Interface: 90100
+## Title: Mistake Dodger
+## Version: 1
+## RequiredDeps: Blizzard_AuctionHouseUI
+## Author: plusmouse
+
+MistakeDodger.lua
+MistakeDodger.xml
